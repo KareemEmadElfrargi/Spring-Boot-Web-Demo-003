@@ -1,10 +1,10 @@
-# 🧑‍🎓 Spring Boot Student Form Demo
+# Spring Boot Student Form Demo
 
 A simple Spring Boot web application using JSP to handle and display student data through a web form.
 
 ---
 
-## 💡 Project Idea
+##  Project Idea
 
 This project demonstrates:
 
