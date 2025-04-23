@@ -9,5 +9,8 @@
     <p>ID: ${student.id}</p>
     <p>Name: ${student.name}</p>
     <p>Major: ${student.major}</p>
+    <p>Age: ${student.age}</p>
+    <p>Email: ${student.email}</p>
+    <p>Honor Student: ${student.honor ? "Yes" : "No"}</p>
 </body>
 </html>

@@ -4,6 +4,9 @@ public class Student {
     private int id;
     private String name;
     private String major;
+    private int age;
+    private String email;
+    private boolean honor;
 
     // Getters and Setters
     public int getId() {
@@ -20,6 +23,14 @@ public class Student {
         this.name = name;
     }
 
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
     public String getMajor() {
         return major;
     }
@@ -27,12 +38,21 @@ public class Student {
         this.major = major;
     }
 
-    @Override
-    public String toString() {
-        return "Student{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", major='" + major + '\'' +
-                '}';
+    public String getEmail() {
+        return email;
     }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public boolean isHonor() {
+        return honor;
+    }
+
+    public void setHonor(boolean honor) {
+        this.honor = honor;
+    }
+
+
 }
