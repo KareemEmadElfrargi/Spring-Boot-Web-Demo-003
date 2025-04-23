@@ -24,7 +24,7 @@ This project demonstrates:
 - Maven
 
 ---
-## 🎬 Demo Video
+## 🎬 Watch Video | init Project
 
 https://github.com/user-attachments/assets/3f9110ac-6537-4786-bfb9-d2d7ae796071
 - http://localhost:8080/
